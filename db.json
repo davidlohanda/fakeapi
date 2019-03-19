@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "david",
+      "password": "rahasia123",
+      "role": "admin"
+    },
+    {
+      "username": "fikri",
+      "password": "ssss",
+      "email": "dd",
+      "phone": "22",
+      "id": 2,
+      "role": "user"
+    },
+    {
+      "username": "jordan",
+      "password": "ssss",
+      "email": "dd",
+      "phone": "22",
+      "id": 3,
+      "role": "user"
+    },
+    {
+      "username": "anton",
+      "password": "12345",
+      "email": "anton@gmail.com",
+      "phone": "2374556",
+      "id": 4,
+      "role": "user"
+    },
+    {
+      "username": "budi",
+      "password": "budi123",
+      "email": "budi@gmail.com",
+      "phone": "9339839838",
+      "id": 5,
+      "role": "user"
+    },
+    {
+      "username": "rrre",
+      "password": "eee",
+      "email": "ee",
+      "phone": "ee",
+      "id": 6,
+      "role": "user"
+    },
+    {
+      "username": "gggg",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "id": 7
+    },
+    {
+      "username": "doyok",
+      "password": "dddd",
+      "email": "doyok@gmail.com",
+      "phone": "08763353322",
+      "id": 8
+    },
+    {
+      "username": "divad",
+      "password": "aaaaa",
+      "email": "divad@gmail.com",
+      "phone": "090984985945",
+      "id": 9
+    },
+    {
+      "username": "yongli",
+      "password": "yongli123",
+      "email": "yongli@gmail.com",
+      "phone": "087763636363",
+      "id": 10
+    },
+    {
+      "username": "huaaQ",
+      "password": "huaaa",
+      "email": "hua22@yahoo.com",
+      "phone": "092762222",
+      "id": 11
+    },
+    {
+      "username": "huaaQ111",
+      "password": "huaaa111sss",
+      "email": "ss232323",
+      "phone": "333333",
+      "id": 12
+    },
+    {
+      "username": "huaaQ11",
+      "password": "huaaa",
+      "email": "ss",
+      "phone": "22",
+      "id": 13
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "nama": "Kaos Hitam Sablon",
+      "harga": 25000,
+      "discount": 15,
+      "deskripsi": "Kaos terbaik dengan kualitas nomor 1",
+      "img": "http://cdn.elevenia.co.id/g/5/3/6/8/1/4/11536814_B.jpg",
+      "category": "sablon"
+    },
+    {
+      "id": 4,
+      "nama": "Kaos Merah Sablon",
+      "harga": 25000,
+      "discount": 10,
+      "deskripsi": "Kaos terbaik dengan kualitas nomor 1",
+      "img": "https://image.winmarket.id/img/2017/10/14/2ZOia0/I_0.jpg",
+      "category": "sablon"
+    },
+    {
+      "id": 5,
+      "nama": "Kaos Hijau Sablon",
+      "harga": 25000,
+      "discount": 25,
+      "deskripsi": "Kaos terbaik dengan kualitas nomor 1",
+      "img": "https://sablonsatuanmanual.files.wordpress.com/2015/04/tosca-shit.jpg",
+      "category": "sablon"
+    },
+    {
+      "nama": "Kaos Putih Polos",
+      "harga": "20000",
+      "discount": "15",
+      "deskripsi": "kaos mantap",
+      "img": "https://s2.bukalapak.com/img/735260782/w-1000/kaos_polos_putih.png",
+      "category": "polos",
+      "id": 6
+    },
+    {
+      "nama": "The Dark Knight",
+      "harga": "20000",
+      "discount": "15",
+      "deskripsi": "kaos mantap",
+      "img": "http://kaospremium.com/images/big/kaos-batman-vs-superman-dawn-of-justice-7-4007179.jpg",
+      "category": "sablon",
+      "id": 7
+    }
+  ],
+  "cart": [
+    
+  ],
+  "history": [
+    
+  ]
+}
